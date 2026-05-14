@@ -1,134 +1,71 @@
-<div align="center">
-
 # 🌿 Arnob Sarker Supta
 
-### ✦ CSE Student · Information Systems · AI & ML Explorer ✦
+> *"Building where logic meets imagination"*
 
-*"Building where logic meets imagination"*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnobsarkersupta.main@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=arnobsarkersupta&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
-
-</div>
+**CSE · Information Systems · AI & Machine Learning**
 
 ---
 
-<div align="center">
+## 💼 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
+- [Email](mailto:arnobsarker.main@gmail.com)
+
+---
 
 ## 🏯 About Me
 
-</div>
+I'm Arnob — a Computer Science & Engineering student majoring in Information Systems, wandering the frontier of Artificial Intelligence and Machine Learning. Like a Ghibli protagonist who finds magic in the ordinary, I find elegance in algorithms, beauty in clean code, and wonder in systems that think.
 
-```
-Arnob Sarker Supta
-   
-   Major       →   CSE · Information Systems
-   Focus       →   AI & Machine Learning
-   Belief      →   Clean code solves real problems
-   Connect     →   arnobsarkersupta.main@gmail.com
-   Status      →   Seeking Internships & Collaborations
-```
+My journey spans multiple languages and domains — from building web applications to training machine learning models — always driven by one belief: *clean code solves real problems.*
 
-Like a Ghibli protagonist who finds magic in the ordinary — I find elegance in algorithms, beauty in clean code, and wonder in systems that think. My journey spans multiple languages and domains, always driven by curiosity and the desire to **build things that matter**.
+| 7+ Languages | ∞ Curiosity | 100% Committed |
+|:---:|:---:|:---:|
 
 ---
 
-## ⚗️ Skills & Arsenal
+## 🔮 Skills & Arsenal
 
-<div align="center">
+### AI / ML
+`Machine Learning` `Deep Learning` `NLP` `Scikit-learn` `TensorFlow` `Pandas` `NumPy`
 
-### 🔮 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Languages
+`Python` `JavaScript` `C#` `PHP` `Java` `C++` `SQL`
 
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Web Dev
+`HTML` `CSS` `React` `Node.js` `REST APIs`
 
-### ⚙️ Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 🧭 Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnobsarkersupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&icon_color=7ab3c8&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnobsarkersupta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&langs_count=8" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=arnobsarkersupta&theme=tokyonight&hide_border=true&background=0D1117&ring=D4A843&fire=C8883A&currStreakLabel=D4A843&sideLabels=7ab3c8&dates=7a9e7a&currStreakNum=f5edd6&sideNums=7ab3c8" />
-
-</div>
+### Tools & Practices
+`Git` `GitHub` `Jupyter` `VS Code` `Agile` `OOP`
 
 ---
 
 ## 🌱 Currently
 
-```yaml
-learning:
-  - "Machine Learning theory & hands-on model building"
-  - "Deep Learning with TensorFlow & Scikit-learn"
-  - "Data analysis & visualization pipelines"
-  - "Full-stack web development patterns"
-
-building:
-  - "AI/ML projects for my portfolio"
-  - "Clean, well-documented open-source code"
-
-seeking:
-  - "Internships in AI / Software Development / Data Science"
-  - "Freelance project collaborations"
-  - "Technical mentors & like-minded builders"
-```
+- 📚 Deepening my understanding of Machine Learning theory and applications
+- 🤖 Building small AI/ML projects to sharpen implementation skills
+- 🌐 Expanding full-stack development capabilities
+- 📊 Exploring data analysis and visualization pipelines
+- 🔍 Seeking internships & collaborations in AI, Software Dev, and Data Science
 
 ---
 
-## ✦ A Thought
+## 💬 Quote
 
 > *"The world is full of magic things, patiently waiting for our senses to grow sharper."*
+>
 > — W.B. Yeats · a motto for every engineer
 
 ---
 
-<div align="center">
+## 🌸 Let's Connect
 
-## 🌸 Let's Build Something Together
+I'm currently open to **internships**, **freelance projects**, and **collaborations** — especially in AI/ML, software development, and information systems. If you're building something meaningful and need a creative technical mind, let's talk.
 
-I'm open to **internships**, **freelance projects**, and **collaborations** — especially in AI/ML, software development, and information systems.
-
-**Best way to reach me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20DM-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnob@email.com)
-
-<br/>
+Best way to reach me: **LinkedIn DM** or **Email**
 
 ---
 
-*✦ where code meets magic ✦*
+*Crafted with wonder · Arnob Sarker Supta · CSE Student*
 
-</div>
+*∴ WHERE CODE MEETS MAGIC ∴*
