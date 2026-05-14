@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 &nbsp; Arnob Sarker Supta &nbsp; 👨‍💻
+# 🌿 Arnob Sarker Supta
 
 ### ✦ CSE Student · Information Systems · AI & ML Explorer ✦
 
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnobsarkersupta.main@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=arnobsarkersupta&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Arnob-HRes&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 </div>
 
@@ -77,10 +77,10 @@ Like a Ghibli protagonist who finds magic in the ordinary — I find elegance in
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnobsarkersupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&icon_color=7ab3c8&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnobsarkersupta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arnob-HRes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&icon_color=7ab3c8&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnob-HRes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&langs_count=8" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arnobsarkersupta&theme=tokyonight&hide_border=true&background=0D1117&ring=D4A843&fire=C8883A&currStreakLabel=D4A843&sideLabels=7ab3c8&dates=7a9e7a&currStreakNum=f5edd6&sideNums=7ab3c8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Arnob-HRes&theme=tokyonight&hide_border=true&background=0D1117&ring=D4A843&fire=C8883A&currStreakLabel=D4A843&sideLabels=7ab3c8&dates=7a9e7a&currStreakNum=f5edd6&sideNums=7ab3c8" />
 
 </div>
 
@@ -123,7 +123,7 @@ I'm open to **internships**, **freelance projects**, and **collaborations** — 
 **Best way to reach me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20DM-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnobsarkersupta.main@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnob@email.com)
 
 <br/>
 
