@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Arnob Sarker Supta
+# <h1 align="center">💻 Arnob Sarker Supta 💻</h1>
 
 ### ✦ CSE Student · Information Systems · AI & ML Explorer ✦
 
