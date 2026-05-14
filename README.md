@@ -123,7 +123,7 @@ I'm open to **internships**, **freelance projects**, and **collaborations** — 
 **Best way to reach me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20DM-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnob@email.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnobsarkersupta.main@gmail.com)
 
 <br/>
 
