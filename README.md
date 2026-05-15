@@ -80,9 +80,6 @@ email       : arnobsarkersupta.main@gmail.com
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arnob-HRes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&icon_color=7ab3c8&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnob-HRes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4A843&text_color=c9d1d9&langs_count=8" />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Arnob-HRes&theme=tokyonight&hide_border=true&background=0D1117&ring=D4A843&fire=C8883A&currStreakLabel=D4A843&sideLabels=7ab3c8&dates=7a9e7a&currStreakNum=f5edd6&sideNums=7ab3c8" />
 
 </div>
