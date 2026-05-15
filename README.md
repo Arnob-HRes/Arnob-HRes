@@ -5,10 +5,6 @@
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=D4A843&background=1A1A2E00&center=true&vCenter=true&width=1000&height=120&lines=Arnob+Sarker+Supta;CSE+Student+%E2%80%A2+AI+%26+ML+Explorer;Open+Source+Builder" />
 
 
-# 💻 &nbsp; Arnob Sarker Supta &nbsp; 💻
-
-### ✦ CSE Student · Information Systems · AI & ML Explorer ✦
-
 *"Building where logic meets imagination"*
 
 <br/>
