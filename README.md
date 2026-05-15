@@ -10,7 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4A843&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%3E+Hello%2C+World!+I'm+Arnob+%F0%9F%91%8B;%3E+Building+things+that+matter...;%3E+AI+%7C+ML+%7C+Full-Stack+Dev;%3E+Clean+code+solves+real+problems;%3E+Seeking+Internships+%26+Collabs;%3E+Let%27s+build+something+great!)](https://git.io/typing-svg)
 
-<br/>
 
 # 💻 &nbsp; Arnob Sarker Supta &nbsp; 💻
 
