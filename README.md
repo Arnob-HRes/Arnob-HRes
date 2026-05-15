@@ -9,10 +9,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnobsarkersupta.main@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arnob-HRes&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7ab3c8&labelColor=1a1a2e)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1a2e)](mailto:arnobsarkersupta.main@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Arnob-HRes&style=for-the-badge&color=D4A843&base_color=0d1117&label=VIEWS+LOGGED)
 
 </div>
 
