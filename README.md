@@ -6,6 +6,16 @@
 
 *"Building where logic meets imagination"*
 
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=Arnob%20Sarker%20Supta&fontSize=52&fontColor=D4A843&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20AI%20%26%20ML%20Explorer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=60&descSize=16&descColor=7ab3c8" />
+
+<!-- ═══════════════════════ TYPING ANIMATION ══════════════════════ -->
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4A843&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%3E+Hello%2C+World!+I'm+Arnob+%F0%9F%91%8B;%3E+Building+things+that+matter...;%3E+AI+%7C+ML+%7C+Full-Stack+Dev;%3E+Clean+code+solves+real+problems;%3E+Seeking+Internships+%26+Collabs;%3E+Let%27s+build+something+great!)](https://git.io/typing-svg)
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
