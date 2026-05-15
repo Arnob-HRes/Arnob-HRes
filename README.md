@@ -34,19 +34,21 @@
 
 </div>
 
-```
-Arnob Sarker Supta
-   
-   Major       →   CSE · Information Systems
-   Focus       →   AI & Machine Learning
-   Belief      →   Clean code solves real problems
-   Connect     →   arnobsarkersupta.main@gmail.com
-   Status      →   Seeking Internships & Collaborations
+```yaml
+name        : Arnob Sarker Supta
+major       : CSE · Information Systems
+focus       : AI & Machine Learning
+belief      : "Clean code solves real problems"
+status      : 🟢 Open to Internships & Collabs
+location    : Bangladesh 🇧🇩
+email       : arnobsarkersupta.main@gmail.com
 ```
 
-Like a Ghibli protagonist who finds magic in the ordinary — I find elegance in algorithms, beauty in clean code, and wonder in systems that think. My journey spans multiple languages and domains, always driven by curiosity and the desire to **build things that matter**.
+> *Like a Ghibli protagonist who finds magic in the ordinary —*
+> *I find elegance in algorithms, beauty in clean code,*
+> *and wonder in systems that think.*
 
----
+<br clear="right"/>
 
 ## ⚗️ Skills & Arsenal
 
