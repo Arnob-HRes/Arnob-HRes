@@ -9,9 +9,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKED_IN-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7ab3c8&color=0d1117)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389) &nbsp; `|` &nbsp; 
-[![Email](https://img.shields.io/badge/EMAIL_NODE-1a1a2e?style=for-the-badge&logo=gmail&logoColor=ff0055&color=0d1117)](mailto:arnobsarkersupta.main@gmail.com) &nbsp; `|` &nbsp; 
-![Profile Views](https://komarev.com/ghpvc/?username=Arnob-HRes&style=for-the-badge&color=D4A843&base_color=1a1a2e&label=CORE_VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111420?style=for-the-badge&logo=linkedin&logoColor=7ab3c8&color=1f2335)](https://www.linkedin.com/in/arnob-sarker-supta-76683a389)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/TERMINAL_MAIL-111420?style=for-the-badge&logo=gmail&logoColor=e0af68&color=1f2335)](mailto:arnobsarkersupta.main@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Arnob-HRes&style=for-the-badge&color=D4A843&base_color=111420&label=SYS_VIEWS)
 
 
 </div>
