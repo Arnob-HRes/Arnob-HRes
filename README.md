@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0%3A0d1117%2C50%3A1a1a2e%2C100%3A0d1117&height=200&section=header&text=Arnob%20Sarker%20Supta&fontSize=52&fontColor=D4A843&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20AI%20%26%20ML%20Explorer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=60&descSize=16&descColor=7ab3c8" />
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0%3A0d1117%2C50%3A1a1a2e%2C100%3A0d1117&height=200&section=header&text=Arnob%20Sarker%20Supta&fontSize=52&fontColor=D4A843&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20AI%20%26%20ML%20Explorer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=60&descSize=16&descColor=7ab3c8)
 
 <!-- ═══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
