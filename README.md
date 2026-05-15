@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1a1a2e&height=200&section=header&text=Arnob%20Sarker%20Supta&fontSize=52&fontColor=D4A843&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AI%20%26%20ML%20Explorer%20%7C%20Open%20Source%20Builder&descAlignY=60&descSize=16&descColor=7ab3c8&v=1" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=D4A843&background=1A1A2E00&center=true&vCenter=true&width=1000&height=120&lines=Arnob+Sarker+Supta;CSE+Student+%E2%80%A2+AI+%26+ML+Explorer;Open+Source+Builder" />
 
 
 *"Building where logic meets imagination"*
